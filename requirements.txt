@@ -1,3 +1,5 @@
 flask
 gtts
 gunicorn
+pydub
+ffmpeg-python
