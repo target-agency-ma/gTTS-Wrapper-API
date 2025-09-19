@@ -3,3 +3,4 @@ gtts
 gunicorn
 pydub
 ffmpeg-python
+gunicorn
